@@ -49,7 +49,10 @@ The purpose of UX Interface Design is to convert low-fidelity wireframes into di
 [...read more](https://github.com/alex-lansing/DH110/tree/main/Assignment06)
 
 ## High-Fidelity Prototype
-To bring my idea to life, I created a working prototype of my product, TuneMate. My prototype aims to present a thorough demonstration of the graphic design and interactivity of the mobile application. I used Figma to create my prototype while following my prior-created wireframes and wireflow.
+To bring my idea to life, I created a working prototype of my product, TuneMate. My prototype aims to present a thorough demonstration of the graphic design and interactivity of the mobile application. I used Figma to create my prototype while following my prior-created wireframes and wireflow. I then conducted a cognitive walkthrough and usability testing to get feedback on the design.
+
+[...read more](https://github.com/alex-lansing/DH110/tree/main/Assignment07)
+
 
 
 
