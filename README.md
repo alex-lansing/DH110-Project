@@ -6,7 +6,7 @@ This project aims to improve the experience of learning music through digital ap
 
 But despite the many resources, there is still a limited amount of mobile applications that support music learners' needs. Users of all levels should be able to access material that is tailored to their interests and expertise. Based on my observations from usability testing and user research, music learners desire a platform that is simple, straightforward, and personalized to experience level. Furthermore, music cannot exist without a community. My qualitative research has shown that one of the most valued aspects of music creation is creating with other people. Musicians require insight, support, and collaboration. Yet many of them struggle to find partners. Even with current social media, it is difficult for musicians to find others that are 1) nearby and 2) looking to practice together.
 
-These findings thus inspired TuneMate: a mobile application that provides personalized music lessons and a platform to connect local musicians. TuneMate users can access lessons tailored to their interests and experience by completing an evaluative placement quiz. They can also find musicians nearby by joining local group chats and messaging others.learners desire a platform that is simple, straightforward, and personalized to experience level. 
+These findings thus inspired TuneMate: a mobile application that provides personalized music lessons and a platform to connect local musicians. TuneMate users can access lessons tailored to their interests and experience by completing an evaluative placement quiz. They can also find musicians nearby by joining local group chats and messaging others.
 
 ## Competitor Analysis: Heuristics Evaluation
 I began my research with a heuristics evaluation of the music theory learning site, [LightNote](https://www.lightnote.co/), and the digital music making site, [Learning Music](https://learningmusic.ableton.com/make-beats/make-beats.html). I chose to analyze these sources to observe how modern websites educate users about music. Through the heuristics evaluation, I aimed to learn what adds to the usability and educative qualities of both sites, and further, identify improvements for a better user experience. 
@@ -77,6 +77,12 @@ To bring my idea to life, I created a working prototype of my product, TuneMate.
 [...read more](https://github.com/alex-lansing/DH110/tree/main/Assignment07)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmTNDVQ6mx5xMnPFgbBonm6%2FInteractive-Prototype%3Fnode-id%3D2%253A99%26starting-point-node-id%3D2%253A99" allowfullscreen></iframe>
+
+## TuneMate Pitch
+
+- [Pitch Video Link](https://youtu.be/RxXQWgiMcUY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RxXQWgiMcUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reflection
 This project was a great introduction to user experience research and design. Prior to taking this course, I did not realize how complex the research and design process is. As an artist, I often like to think that my work is immutable. But what I have come to realize is that you can never get enough feedback. With the TuneMate application, I reached out to several peers for their thoughts and opinions. There was seemingly always something to improve, but I have learned that is the beauty of design. I feel that my final version of the TuneMate application integrates my design solutions successfully. It allows users to begin lessons according to interest and experience, and invites users to connect. From here, I plan to improve the design by making the layout more consistent and refining functional details.
