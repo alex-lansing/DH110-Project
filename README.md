@@ -29,4 +29,27 @@ UX storytelling allows creators and designers to consider the perspectives of di
 [...read more](https://github.com/alex-lansing/DH110/tree/main/Assignment04)
 
 ## Low-Fidelity Prototype & User Testing
-The following material demonstrates the wireframes, wireflow, and wireflow testing of a low-fidelity prototype for my music-learning application idea. Two usage scenarios are provided with wireframes and flow of the two tasks described in my user scenarios. 
+With research and user scenarios complete, I developed a low-fidelity prototype that integrates the features of my product idea. The purpose of low-fidelity prototyping is to test the functionality and flow of features utilized in envisioned tasks. The tasks supported by this prototype are as follows:
+
+1. Complete the Placement Quiz to find out which Lesson to start on
+2. Navigate to different Lessons
+3. Check lesson progress
+4. Find other musicians through a Group Chat
+5. Create a Post in the Group Chat
+6. Comment on another user's post
+7. Direct Message another user
+
+I created the wireframes and wireflow of a low-fidelity prototype for a mobile music-learning application. I then conducted wireflow testing for further insight. My wireframes and usage scenarios are displayed below. Read more to view the full wireflow and wireflow testing.
+
+[...read more](https://github.com/alex-lansing/DH110/tree/main/Assignment05)
+
+## Interface Design
+The purpose of UX Interface Design is to convert low-fidelity wireframes into digitized designs that will later be transformed into interactive prototypes and a final application. My design process was created through Figma. I utilized the iPhone 13 / 13 Pro screen size to frame my overall app design. During my process, I tested different typography, shape, and color variations for the app's main "Lessons" page. After completion of the design, I ran two impression tests to further assist my process. An accessibility test was also ran to check for proper color contrast.
+
+[...read more](https://github.com/alex-lansing/DH110/tree/main/Assignment06)
+
+## High-Fidelity Prototype
+To bring my idea to life, I created a working prototype of my product, TuneMate. My prototype aims to present a thorough demonstration of the graphic design and interactivity of the mobile application. I used Figma to create my prototype while following my prior-created wireframes and wireflow.
+
+
+
