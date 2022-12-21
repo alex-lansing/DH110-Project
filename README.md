@@ -76,7 +76,7 @@ To bring my idea to life, I created a working prototype of my product, TuneMate.
 
 [...read more](https://github.com/alex-lansing/DH110/tree/main/Assignment07)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmTNDVQ6mx5xMnPFgbBonm6%2FInteractive-Prototype%3Fnode-id%3D2%253A99%26starting-point-node-id%3D2%253A99" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmTNDVQ6mx5xMnPFgbBonm6%2FInteractive-Prototype%3Fnode-id%3D2%253A99%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A99" allowfullscreen></iframe>
 
 ## TuneMate Pitch
 
